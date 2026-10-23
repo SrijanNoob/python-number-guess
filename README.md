@@ -2,7 +2,7 @@
 
 A simple number guessing game built in Python.
 
-**Repository:** https://github.com/SrijanNoob/python-number-guess
+**Repository:** https://roadmap.sh/projects/number-guessing-game
 
 ## How to Play
 
