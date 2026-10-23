@@ -1,7 +1,8 @@
 # python-number-guess# Number Guessing Game
 
 A simple number guessing game built in Python.
-**Repository:** https://github.com/SrijanNoob/python-number-guess/blob/main/main.py
+
+**Repository:** https://github.com/SrijanNoob/python-number-guess
 
 ## How to Play
 
