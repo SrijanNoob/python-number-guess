@@ -18,4 +18,10 @@ A simple number guessing game built in Python.
 ## How to Run
 
 ```bash
-python main.py   
+Welcome to the Number Guessing Game!
+Choose difficulty (easy/medium/hard): easy
+You have 10 chances to guess the correct number.
+Enter your guess: 50
+Incorrect! The number is less than 50.
+Enter your guess: 25
+Congratulations! You guessed the correct number in 2 attempts.   
